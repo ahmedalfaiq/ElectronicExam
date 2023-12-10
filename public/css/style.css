@@ -1,0 +1,24 @@
+
+
+.hero
+{
+ height: 80vh;
+ background-image: url('../img/hero.jpeg') ;
+ background-color: lightblue;
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: white;
+ padding-top:40px ;
+ padding-left: 40px;
+}
+.hero .head{
+    
+}
+
+.about-us{
+    height: 80vh;
+    background-image: url('../img/ready.jpeg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
